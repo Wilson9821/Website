@@ -1,0 +1,27 @@
+ nav a {
+	font-size: 30px;
+	display: table-cell;
+	width: 22.5%;
+	text-align: center;
+	border: thin solid rgba(127,96,17,1.00);
+}
+h1,h2{
+	text-align: center;
+	Font-size: 45px;
+}
+address{
+	text-align:right;
+}
+
+nav a{
+	background-color: #CC0000;
+	color: #FFFFFF;
+}
+.moveImg{
+	float:left;
+	margin: 10xp;
+	padding: 10px;
+}
+.stopFlt{
+	clear: both;
+}

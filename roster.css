@@ -1,0 +1,27 @@
+nav a {
+	font-size: 30px;
+	display: table-cell;
+	width: 22.5%;
+	text-align: center;
+	border: thin solid rgba(127,96,17,1.00);
+	background-color: #CC0000;
+	color: #FFFFFF;
+
+}
+h1{
+	text-align: center;
+}
+address{
+	text-align:right;
+}
+table{
+	width: 75%;
+	margin-right: auto;
+	margin-left: left;
+}
+
+td, th{
+	border: 2px solid #FF0000;
+	font-family: serif, sans-serif, arial
+}
+
